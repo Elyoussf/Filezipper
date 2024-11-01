@@ -1,10 +1,9 @@
-How to Try It Out
+# How to Try It Out
 
-To run this tool, use the following command:
+This project needs more and more improvement it just the first version (it accepts just file as input...)
 
-bash
 
+# Usage
+```bash
 cargo run <SourcePath> <TargetPath>
-
-    <SourcePath>: The path to the file or directory you want to compress.
-    <TargetPath>: The path where the compressed file(s) will be saved.
+```
